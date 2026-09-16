@@ -1,0 +1,26 @@
+
+
+.dark{
+    background-color: rgb(23, 23, 23);
+    color: white;
+    ul a{
+        color: white;
+    }
+    .skills{
+     border: 2px solid rgb(85, 85, 85);
+}
+
+ul{
+    border: 1px solid white;
+}
+.right_nav{
+    border: 1px solid white;
+}
+}
+.light{
+    background-color: #E6E6E6;
+    color: rgb(6, 6, 6);
+    .skills{
+     border: 2px solid rgb(184, 184, 184);
+}
+}
